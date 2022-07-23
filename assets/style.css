@@ -9,8 +9,9 @@ body {
 }
 
 main {
-  width: 900px;
+  max-width: 900px;
   margin: 15vh auto;
+  padding: 15px;
 }
 
 .w-headline h1 {
