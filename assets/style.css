@@ -14,15 +14,21 @@ main {
   padding: 15px;
 }
 
-.w-headline h1 {
+section.headline h1 {
   font-weight: normal;
   font-size: 40px;
   margin: 25px 0;
 }
 
-.w-article {
+section.article h3 {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+section.article p {
   line-height: 1.5em;
   text-align: justify;
   margin: 15px 0;
-  font-size: 20px;
+  font-size: 18px;
 }
+
